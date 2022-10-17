@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fresh apple",
+      "date": "2022-09-09T04:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Jack Fruit",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 50,
+      "comment": "Kadal",
+      "date": "2022-09-09T04:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple Watch 4",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 300,
+      "comment": "Its a good gadget",
+      "date": "2022-09-13T04:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
